@@ -25,6 +25,18 @@ a:hover {
   color: orange;
 }
 
+a:active {
+  color: blue;
+}
+
+a:visited {
+  color: red;
+}
+
+.story-text {
+  margin-top: 20px;
+}
+
 .author {
   font-size: 1.1em;
 }
